@@ -1,0 +1,24 @@
+{
+  "auth": {
+    "username": "email@company.com",
+    "api_token": "your-api-token"
+  },
+  "confluence": {
+    "base_url": "https://your-domain.atlassian.net"
+  },
+
+  "review_config": {
+    "gp_app_id": "GoogleStore-app-id",
+    "as_app_id": "AppStore-app-id",
+    "as_app_name": "AppStore-app-name",
+    "as_country_code": "kr",
+    "space_key": "confluence-space",
+    "parent_page_id": "confluence-parent-space"
+  },
+
+  "market_share_config": {
+    "target_url": "https://gs.statcounter.com/",
+    "space_key": "confluence-space",
+    "parent_page_id": "confluence-parent-space"
+  }
+}

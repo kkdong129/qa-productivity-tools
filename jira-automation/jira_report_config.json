@@ -1,0 +1,17 @@
+{
+  "jira": {
+    "base_url": "https://your-domain.atlassian.net",
+    "email": "email@company.com",
+    "api_token": "your-api-token"
+  },
+  "slack": {
+    "webhook_url": "slack-webhook-url"
+  },
+  "gmail": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": "port-number",
+    "sender_email": "sender-email@domain.com",
+    "app_password": "google-email-app-password",
+    "recipient_emails": ["recipient-email-1@domain.com", "recipient-email-2@domain.com"]
+  }
+}
